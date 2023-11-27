@@ -2,6 +2,7 @@ def print_hi(name):
     print(f'Hi, {name}')
     print("changes for the first commit")
     print("changes for the second commit")
+    print("changes for the third commit")
 
 
 # Press the green button in the gutter to run the script.
