@@ -4,6 +4,7 @@ def print_hi(name):
     print("changes for the second commit")
     print("changes for the third commit")
 
+#Задача для воображаемого друга
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
